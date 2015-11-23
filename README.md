@@ -1,2 +1,2 @@
-#Dumps data structures to json format for debuging using "Reflection".
-
+# class.info
+Builds debug tree for a class.
