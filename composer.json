@@ -1,0 +1,13 @@
+{
+    "name": "nikolav/class.info",
+    "description": "Builds debug tree for a class.",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Vukovic Nikola",
+            "email": "vukovicnikola2014@gmail.com"
+        }
+    ],
+    "require": {}
+}
