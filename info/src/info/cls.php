@@ -6,7 +6,7 @@ use stdClass;
 
 
 /**
- * example:
+ * an example:
  * 
  *   use info\cls;
  * 
@@ -22,7 +22,7 @@ class cls {
   /**
    * Builds debug tree for a class
    * 
-   * @param  string   $cname      required, class to reflect, required
+   * @param  string   $cname      required, class to reflect
    * @param  Callable $callback   required, error/null as 1st and info{} as 2nd argument
    * @return void                 runs given callback()
    */
